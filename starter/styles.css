@@ -1,0 +1,53 @@
+body{
+    background-color: #800020;
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.welcome__heading{
+    text-align: center;
+}
+
+.sub__heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#computer__choice{
+    margin: 200px 10px 0 0;
+}
+
+#user__choice{
+    margin: 80px 10px 0 0;
+}
+
+#results{
+    margin: 80px 10px 0 0;
+}
+
+.button{
+    padding: 10px 7px;
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+    color: white;
+    border-radius: 10px;
+    font-size: large;
+    /* margin: 300px 10px 0 0; */
+
+}
+
+
+#rock{
+    margin: 200px 10px 0 350px;
+}
+
+#paper{
+    margin: 200px 10px 0 20px;
+}
+
+#scissors{
+    margin: 200px 10px 0 20px;
+}

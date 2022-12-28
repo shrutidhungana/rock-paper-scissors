@@ -6,6 +6,7 @@ let userChoice
 let computerChoice
 let result
 
+//For choices
 possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click', (e) => {
   userChoice = e.target.id
   userChoiceDisplay.innerHTML = userChoice
